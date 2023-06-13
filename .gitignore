@@ -2,3 +2,6 @@
 *.form
 build
 nbproject
+TSTP
+*.pdf
+*.txt
