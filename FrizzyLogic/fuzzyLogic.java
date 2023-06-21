@@ -1,8 +1,6 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import javax.swing.JOptionPane;
-
 public class fuzzyLogic {
     public static void main(String[] args) {
         validI();
